@@ -18,6 +18,6 @@ public class Student {
     }
 
     public void printDetails() {
-        System.out.println(name + yearsold+ " Java skills level is " + javaLevel);
+        System.out.println(name + yearsold+ " annnnd Java skills level is  " + javaLevel + javaLevel);
     }
         }
